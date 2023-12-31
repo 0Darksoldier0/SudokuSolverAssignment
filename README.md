@@ -6,3 +6,4 @@ Before I realized that I am only required to write 3 functions to build up on an
 I hope you would understand my circumstances, and spend some time take a look at my code.
 
 To RUN and perform TEST CASES, go to the 'main.c' file for instructions
+***NOTE: Please run this on VISUAL STUDIO, I do not know if it works on VISUAL STUDIO CODE.
